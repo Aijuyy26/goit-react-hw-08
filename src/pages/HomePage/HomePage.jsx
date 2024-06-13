@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className={css.title}>
         Welcome page{" "}
         <span role="img" aria-label="Greeting icon">
-          💁
+        
         </span>
       </h1>
     </div>
